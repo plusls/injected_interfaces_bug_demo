@@ -39,7 +39,7 @@
       "net/minecraft/world/level/BaseCommandBlock": [
         "net/fabricmc/example/LevelCompatApi"
       ],
-      "com/mojang/math/Matrix4f": [
+      "net/minecraft/class_1159": [
         "net/fabricmc/example/LevelCompatApi"
       ]
     }
