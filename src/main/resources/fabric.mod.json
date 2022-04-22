@@ -33,13 +33,7 @@
   },
   "custom": {
     "loom:injected_interfaces": {
-      "net/minecraft/world/level/Level": [
-        "net/fabricmc/example/LevelCompatApi"
-      ],
-      "net/minecraft/world/level/BaseCommandBlock": [
-        "net/fabricmc/example/LevelCompatApi"
-      ],
-      "net/minecraft/class_1159": [
+      "net/minecraft/world/entity/Entity": [
         "net/fabricmc/example/LevelCompatApi"
       ]
     }
