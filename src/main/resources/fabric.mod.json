@@ -34,7 +34,7 @@
   "custom": {
     "loom:injected_interfaces": {
       "net/minecraft/world/entity/Entity": [
-        "net/fabricmc/example/LevelCompatApi"
+        "net/fabricmc/example/EntityCompatApi"
       ]
     }
   }
